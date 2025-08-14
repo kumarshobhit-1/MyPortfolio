@@ -6,7 +6,7 @@ This project showcases my skills, projects, experience, and contact information 
 ## 🚀 Live Demo
 
 
-🌐 [Click here to view the portfolio](https://shobhitkumar1437.github.io/myPortfolio/)
+🌐 [Click here to view the portfolio](https://kumarshobhit-1.github.io/myPortfolio/)
 
 ---
 
@@ -51,10 +51,11 @@ Feel free to connect with me:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shobhit-kumar1/)
 - 📧 shobhitkumar1437@gmail.com
-- 🌍 [Portfolio Website](https://shobhitkumar1437.github.io/myPortfolio/)
+- 🌍 [Portfolio Website](https://kumarshobhit-1.github.io/myPortfolio/)
 
 ---
 
 ## 🛡 Copyright Notice
+
 
 © 2025 Shobhit Kumar — This portfolio is developed and maintained by Shobhit Kumar. All rights reserved.
