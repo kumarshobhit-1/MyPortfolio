@@ -3,6 +3,8 @@
 Welcome to my personal portfolio website!  
 This project showcases my skills, projects, experience, and contact information as a Frontend Developer, IoT & Blockchain Enthusiast.
 
+  <img src="https://komarev.com/ghpvc/?username=kumarshobhit-1&label=Visitors&color=blue" alt="Visitors"/>
+
 ## 🚀 Live Demo
 
 
