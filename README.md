@@ -20,6 +20,8 @@ A modern, responsive developer portfolio featuring Three.js 3D visuals, animated
 ![Portfolio Screenshot](./screenshots/project.png)
 ![Portfolio Screenshot](./screenshots/blog.png)
 ![Portfolio Screenshot](./screenshots/contact.png)
+![Portfolio Screenshot](./screenshots/ai1.png)
+![Portfolio Screenshot](./screenshots/ai2.png)
 
 ---
 
@@ -77,5 +79,6 @@ Feel free to connect with me:
 
 
 © 2025 Shobhit Kumar — This portfolio is developed and maintained by Shobhit Kumar. All rights reserved.
+
 
 
