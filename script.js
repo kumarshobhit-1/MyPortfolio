@@ -583,7 +583,7 @@ const projectData = {
 
         ],
         tech: ['HTML5', 'JavaScript', 'Express.js', 'CSS3', 'Bootstrap', 'RESTful APIs', 'EJS', 'Node.js', 'MongoDB', 'Mongoose', 'Cloudinary', 'Render', 'Node Mailer'],
-        live: 'https://wanderlust-wy3w.onrender.com/listings',
+        live: 'https://wanderluststay.vercel.app/listings',
         source: 'https://github.com/kumarshobhit-1/WanderLust-Major-Project'
     },
     project2: {
@@ -1674,3 +1674,4 @@ window.addEventListener('load', () => {
 
     setupVoiceRecognition();
 })();
+
